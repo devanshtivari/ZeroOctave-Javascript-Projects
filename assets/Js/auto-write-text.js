@@ -1,4 +1,4 @@
-const text = "Hi, My name is Shivam Gupta";
+const text = window.prompt("Enter text to be animated");
 
 let index = 0;
 
